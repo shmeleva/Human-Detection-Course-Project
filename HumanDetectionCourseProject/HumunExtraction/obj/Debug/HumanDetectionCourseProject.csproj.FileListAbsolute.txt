@@ -1,0 +1,9 @@
+C:\Users\Rina\Dropbox\Course Projects\NET Programming Course Project\HumanDetectionCourseProject (3)\HumunExtraction\bin\Debug\HumanDetection.exe.config
+C:\Users\Rina\Dropbox\Course Projects\NET Programming Course Project\HumanDetectionCourseProject (3)\HumunExtraction\bin\Debug\HumanDetection.exe
+C:\Users\Rina\Dropbox\Course Projects\NET Programming Course Project\HumanDetectionCourseProject (3)\HumunExtraction\bin\Debug\HumanDetection.pdb
+C:\Users\Rina\Dropbox\Course Projects\NET Programming Course Project\HumanDetectionCourseProject (3)\HumunExtraction\obj\Debug\HumanDetectionCourseProject.csprojResolveAssemblyReference.cache
+C:\Users\Rina\Dropbox\Course Projects\NET Programming Course Project\HumanDetectionCourseProject (3)\HumunExtraction\obj\Debug\HumanDetection.Form1.resources
+C:\Users\Rina\Dropbox\Course Projects\NET Programming Course Project\HumanDetectionCourseProject (3)\HumunExtraction\obj\Debug\HumanDetection.Properties.Resources.resources
+C:\Users\Rina\Dropbox\Course Projects\NET Programming Course Project\HumanDetectionCourseProject (3)\HumunExtraction\obj\Debug\HumanDetectionCourseProject.csproj.GenerateResource.Cache
+C:\Users\Rina\Dropbox\Course Projects\NET Programming Course Project\HumanDetectionCourseProject (3)\HumunExtraction\obj\Debug\HumanDetection.exe
+C:\Users\Rina\Dropbox\Course Projects\NET Programming Course Project\HumanDetectionCourseProject (3)\HumunExtraction\obj\Debug\HumanDetection.pdb

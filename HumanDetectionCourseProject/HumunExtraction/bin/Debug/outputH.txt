@@ -1,0 +1,17 @@
+TREE:
+Root: Color: 20 Position: (1, 2)
+Root children:1
+40 (14)
+Children: 
+50 (13)
+Children*: 
+70 (3)
+Children**: 
+120 (1)
+80 (1)
+90 (3)
+Children**: 
+110 (1)
+100 (1)
+
+

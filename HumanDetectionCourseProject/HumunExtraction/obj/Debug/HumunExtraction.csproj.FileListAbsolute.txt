@@ -1,0 +1,51 @@
+c:\users\rina\documents\visual studio 2013\Projects\HumunExtraction\HumunExtraction\bin\Debug\HumunExtraction.exe.config
+c:\users\rina\documents\visual studio 2013\Projects\HumunExtraction\HumunExtraction\bin\Debug\HumunExtraction.exe
+c:\users\rina\documents\visual studio 2013\Projects\HumunExtraction\HumunExtraction\bin\Debug\HumunExtraction.pdb
+c:\users\rina\documents\visual studio 2013\Projects\HumunExtraction\HumunExtraction\bin\Debug\MetroFramework.Design.dll
+c:\users\rina\documents\visual studio 2013\Projects\HumunExtraction\HumunExtraction\bin\Debug\MetroFramework.dll
+c:\users\rina\documents\visual studio 2013\Projects\HumunExtraction\HumunExtraction\bin\Debug\MetroFramework.Fonts.dll
+c:\users\rina\documents\visual studio 2013\Projects\HumunExtraction\HumunExtraction\obj\Debug\HumunExtraction.Form1.resources
+c:\users\rina\documents\visual studio 2013\Projects\HumunExtraction\HumunExtraction\obj\Debug\HumunExtraction.Properties.Resources.resources
+c:\users\rina\documents\visual studio 2013\Projects\HumunExtraction\HumunExtraction\obj\Debug\HumunExtraction.csproj.GenerateResource.Cache
+c:\users\rina\documents\visual studio 2013\Projects\HumunExtraction\HumunExtraction\obj\Debug\HumunExtraction.exe
+c:\users\rina\documents\visual studio 2013\Projects\HumunExtraction\HumunExtraction\obj\Debug\HumunExtraction.pdb
+c:\users\rina\documents\visual studio 2013\Projects\HumunExtraction\HumunExtraction\obj\Debug\HumunExtraction.csprojResolveAssemblyReference.cache
+F:\NET-программирование\Курсовая\HumunExtraction (Copy 2)\HumunExtraction\bin\Debug\HumunExtraction.exe.config
+F:\NET-программирование\Курсовая\HumunExtraction (Copy 2)\HumunExtraction\obj\Debug\HumunExtraction.exe
+F:\NET-программирование\Курсовая\HumunExtraction (Copy 2)\HumunExtraction\obj\Debug\HumunExtraction.pdb
+F:\NET-программирование\Курсовая\HumunExtraction (Copy 2)\HumunExtraction\bin\Debug\HumunExtraction.exe
+F:\NET-программирование\Курсовая\HumunExtraction (Copy 2)\HumunExtraction\bin\Debug\HumunExtraction.pdb
+F:\NET-программирование\Курсовая\HumunExtraction (Copy 2)\HumunExtraction\obj\Debug\HumunExtraction.csprojResolveAssemblyReference.cache
+F:\NET-программирование\Курсовая\HumunExtraction (Copy 2)\HumunExtraction\obj\Debug\HumunExtraction.Form1.resources
+F:\NET-программирование\Курсовая\HumunExtraction (Copy 2)\HumunExtraction\obj\Debug\HumunExtraction.Properties.Resources.resources
+F:\NET-программирование\Курсовая\HumunExtraction (Copy 2)\HumunExtraction\obj\Debug\HumunExtraction.csproj.GenerateResource.Cache
+J:\NET-программирование\Курсовая\HumunExtraction (Copy 2)\HumunExtraction\bin\Debug\HumunExtraction.exe.config
+J:\NET-программирование\Курсовая\HumunExtraction (Copy 2)\HumunExtraction\obj\Debug\HumunExtraction.exe
+J:\NET-программирование\Курсовая\HumunExtraction (Copy 2)\HumunExtraction\obj\Debug\HumunExtraction.pdb
+H:\NET-программирование\Курсовая\HumunExtraction (Copy 2)\HumunExtraction\bin\Debug\HumunExtraction.exe.config
+H:\NET-программирование\Курсовая\HumunExtraction (Copy 2)\HumunExtraction\obj\Debug\HumunExtraction.exe
+H:\NET-программирование\Курсовая\HumunExtraction (Copy 2)\HumunExtraction\obj\Debug\HumunExtraction.pdb
+H:\NET-программирование\Курсовая\HumunExtraction (Copy 2)\HumunExtraction\bin\Debug\HumunExtraction.exe
+H:\NET-программирование\Курсовая\HumunExtraction (Copy 2)\HumunExtraction\bin\Debug\HumunExtraction.pdb
+H:\NET-программирование\Курсовая\HumunExtraction (Copy 2)\HumunExtraction\obj\Debug\HumunExtraction.csprojResolveAssemblyReference.cache
+H:\NET-программирование\Курсовая\HumunExtraction (Copy 2)\HumunExtraction\obj\Debug\HumunExtraction.Form1.resources
+H:\NET-программирование\Курсовая\HumunExtraction (Copy 2)\HumunExtraction\obj\Debug\HumunExtraction.Properties.Resources.resources
+H:\NET-программирование\Курсовая\HumunExtraction (Copy 2)\HumunExtraction\obj\Debug\HumunExtraction.csproj.GenerateResource.Cache
+E:\NET-программирование\Курсовая\HumunExtraction (Copy 2)\HumunExtraction\bin\Debug\HumunExtraction.exe.config
+E:\NET-программирование\Курсовая\HumunExtraction (Copy 2)\HumunExtraction\obj\Debug\HumunExtraction.exe
+E:\NET-программирование\Курсовая\HumunExtraction (Copy 2)\HumunExtraction\obj\Debug\HumunExtraction.pdb
+E:\NET-программирование\Курсовая\HumunExtraction (Copy 2)\HumunExtraction\bin\Debug\HumunExtraction.exe
+E:\NET-программирование\Курсовая\HumunExtraction (Copy 2)\HumunExtraction\bin\Debug\HumunExtraction.pdb
+E:\NET-программирование\Курсовая\HumunExtraction (Copy 2)\HumunExtraction\obj\Debug\HumunExtraction.csprojResolveAssemblyReference.cache
+E:\NET-программирование\Курсовая\HumunExtraction (Copy 2)\HumunExtraction\obj\Debug\HumunExtraction.Form1.resources
+E:\NET-программирование\Курсовая\HumunExtraction (Copy 2)\HumunExtraction\obj\Debug\HumunExtraction.Properties.Resources.resources
+E:\NET-программирование\Курсовая\HumunExtraction (Copy 2)\HumunExtraction\obj\Debug\HumunExtraction.csproj.GenerateResource.Cache
+C:\Users\Rina\Dropbox\HumanDetectionCourseProject\HumunExtraction\bin\Debug\HumunExtraction.exe.config
+C:\Users\Rina\Dropbox\HumanDetectionCourseProject\HumunExtraction\obj\Debug\HumunExtraction.exe
+C:\Users\Rina\Dropbox\HumanDetectionCourseProject\HumunExtraction\obj\Debug\HumunExtraction.pdb
+C:\Users\Rina\Dropbox\HumanDetectionCourseProject\HumunExtraction\bin\Debug\HumunExtraction.exe
+C:\Users\Rina\Dropbox\HumanDetectionCourseProject\HumunExtraction\bin\Debug\HumunExtraction.pdb
+C:\Users\Rina\Dropbox\HumanDetectionCourseProject\HumunExtraction\obj\Debug\HumunExtraction.csprojResolveAssemblyReference.cache
+C:\Users\Rina\Dropbox\HumanDetectionCourseProject\HumunExtraction\obj\Debug\HumunExtraction.Form1.resources
+C:\Users\Rina\Dropbox\HumanDetectionCourseProject\HumunExtraction\obj\Debug\HumunExtraction.Properties.Resources.resources
+C:\Users\Rina\Dropbox\HumanDetectionCourseProject\HumunExtraction\obj\Debug\HumunExtraction.csproj.GenerateResource.Cache

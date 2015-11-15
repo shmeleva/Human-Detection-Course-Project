@@ -1,0 +1,5 @@
+C:\Users\Rina\Dropbox\Course Projects\NET Programming Course Project\HumanDetectionCourseProject (3)\HumunExtraction\bin\Release\HumanDetection.exe.config
+C:\Users\Rina\Dropbox\Course Projects\NET Programming Course Project\HumanDetectionCourseProject (3)\HumunExtraction\obj\Release\HumanDetection.csprojResolveAssemblyReference.cache
+C:\Users\Rina\Dropbox\Course Projects\NET Programming Course Project\HumanDetectionCourseProject (3)\HumunExtraction\obj\Release\HumanDetection.Form1.resources
+C:\Users\Rina\Dropbox\Course Projects\NET Programming Course Project\HumanDetectionCourseProject (3)\HumunExtraction\obj\Release\HumanDetection.Properties.Resources.resources
+C:\Users\Rina\Dropbox\Course Projects\NET Programming Course Project\HumanDetectionCourseProject (3)\HumunExtraction\obj\Release\HumanDetection.csproj.GenerateResource.Cache
